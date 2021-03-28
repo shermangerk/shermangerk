@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shermangerk
 - 👀 I’m interested in data science and semantic analysis
-- 🌱 I’m currently reading Python Data Science Handbook by Jake VanderPlas
+- 🌱 I’m currently reading Python Data Science Handbook by Jake VanderPlas & Applied TExt Analysis with Python by Benjamin Bengfort
