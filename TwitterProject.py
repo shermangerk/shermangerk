@@ -1,5 +1,6 @@
 import tweepy
 
+# input xxxx with personal api token from twitter
 consumer_key = "xxxx"
 consumer_secret = "xxxx"
 
